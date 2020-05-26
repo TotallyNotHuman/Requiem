@@ -1,0 +1,4 @@
+Ships/
+*.loadmeta
+*.sfs
+!persistent.sfs
